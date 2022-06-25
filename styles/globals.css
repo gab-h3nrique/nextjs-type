@@ -5,6 +5,10 @@ html,
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 } */
+::-webkit-scrollbar{
+  background: #e8f2ff;
+  width: 0px;
+}
 body {
   background: #f4f4f4;
   font-weight: lighter;
